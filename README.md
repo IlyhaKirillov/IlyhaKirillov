@@ -8,6 +8,3 @@
 [![Slab](https://img.shields.io/badge/slab-F9AB00.svg?&style=for-the-badge&logo=slab&logoColor=orange)](https://baumanracing.slab.com)
 [![OpneProject](https://img.shields.io/badge/opneproject-0770B8.svg?&style=for-the-badge&logo=opneproject&logoColor=white)](https://project.brtdriverless.ru)
 
-## 😎 My stats:
-
-![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyhakirillov&show_icons=true&theme=tokyonight)
